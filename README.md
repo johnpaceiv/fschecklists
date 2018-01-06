@@ -1,0 +1,3 @@
+# fschecklists
+An open source check list app for Flight Sim Community. IN DEVELOPMENT WITH NO STABLE RELEASE SCHEDULED!
+## More information to come soon. Check back shortly...
